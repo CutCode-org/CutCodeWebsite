@@ -1,7 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 ::-webkit-scrollbar {
   width: 0px;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
 }

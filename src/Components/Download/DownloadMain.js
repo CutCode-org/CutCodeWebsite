@@ -16,12 +16,20 @@ export default function DownloadMain() {
             <h1 className="font-poppins">8 January 2022</h1>
           </div>
         </div>
-        <div className="download-main flex flex-col align-center justify-center bg-red-700">
-          <h1 className="font-poppins text-5xl text-white font-semibold px-10">
+        <div className="download-main flex flex-col align-center justify-center px-10">
+          <h1 className="font-poppins text-5xl text-white font-semibold">
             Download CutCode
           </h1>
-          <div className="download">
-            <h1>Windows</h1>
+          <div className="windows w-52">
+            <h1 className=" pt-5 text-white font-poppins text-2xl">Windows</h1>
+            <p className="text-gray-300 pt-2">
+              For both 32 and 64 bit Windows operating systems.
+            </p>
+            <div className="download_link bg-indigo-500 flex rounded-full items-center justify-center w-auto mt-5">
+              <a href="/" className="py-3 text-white ">
+                Download
+              </a>
+            </div>
           </div>
         </div>
       </section>
