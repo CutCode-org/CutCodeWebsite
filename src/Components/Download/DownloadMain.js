@@ -12,7 +12,7 @@ export default function DownloadMain() {
         <h1 className="pt-5 text-white font-poppins text-2xl">Windows</h1>
         <p className="text-gray-300 pt-2">For x32/x64 operating systems.</p>
         <div className="download_link bg-indigo-500 flex rounded-full items-center justify-center w-auto mt-5">
-          <a href="/" className="py-3 text-white ">
+          <a href="https://github.com/Abdesol/CutCode/releases/download/v3.0.0/CutCode.v3.0.0.Win.x64.exe" className="py-3 text-white ">
             Download
           </a>
         </div>
@@ -23,7 +23,7 @@ export default function DownloadMain() {
         <h1 className=" pt-5 text-white font-poppins text-2xl">Linux</h1>
         <p className="text-gray-300 pt-2">For Linux operating systems.</p>
         <div className="download_link bg-indigo-500 flex rounded-full items-center justify-center w-auto mt-5">
-          <a href="/" className="py-3 text-white ">
+          <a href="https://github.com/Abdesol/CutCode/releases/download/v3.0.0/CutCode_linux_x64_installer.sh" className="py-3 text-white ">
             Download
           </a>
         </div>
